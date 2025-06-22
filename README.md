@@ -32,7 +32,7 @@ Soy un desarrollador apasionado por crear soluciones eficientes y elegantes. Ten
 ## 📫 Contáctame
 
 
-- GitHub: [github.com/tu-usuario](https://github.com/CesarAcosta93)
+- GitHub: [github.com/CesarAcosta93](https://github.com/CesarAcosta93)
 - Email: cesaracostabazan@gmail.com
 
 ---
