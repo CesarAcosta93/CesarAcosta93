@@ -25,7 +25,7 @@ Soy un desarrollador apasionado por crear soluciones eficientes y elegantes. Ten
 
 ## 🌱 Siempre en crecimento
 
-- Actualmente estoy enfocado en aprender las librerias Numpy y Tensrflow.
+- Actualmente estoy enfocado en aprender las librerias Numpy y Tenserflow.
 
 ---
 
