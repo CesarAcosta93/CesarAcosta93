@@ -16,21 +16,10 @@ Soy un desarrollador apasionado por crear soluciones eficientes y elegantes. Ten
 
 ## 💼 Proyectos destacados
 
-### [Proyecto 1 - Nombre del Proyecto](https://github.com/tu-usuario/proyecto1)
-- Descripción breve del proyecto.
-- Tecnologías usadas: React, Node.js, MongoDB.
-- Funcionalidades principales: Autenticación, CRUD, API REST.
-
-### [Proyecto 2 - Nombre del Proyecto](https://github.com/tu-usuario/proyecto2)
-- Descripción breve del proyecto.
-- Tecnologías usadas: Python, Flask, SQLite.
-- Funcionalidades principales: API para manejo de datos, interfaz sencilla.
-
-### [Proyecto 3 - Nombre del Proyecto](https://github.com/tu-usuario/proyecto3)
-- Descripción breve del proyecto.
-- Tecnologías usadas: Docker, Kubernetes.
-- Funcionalidades principales: Despliegue automático y escalabilidad.
-
+### [Proyecto 1 - Pagina Web](https://www.mahensa.com)
+- Una pagina estatica sencilla para una empresa iniciando su emprendimiento.
+- Tecnologías usadas: React.
+- Funcionalidades principales: Animaciones simples para mayor fluides y enlace de contacto.
 
 ---
 
@@ -63,4 +52,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### [Proyecto 2 - Nombre del Proyecto](https://github.com/tu-usuario/proyecto2)
+- Descripción breve del proyecto.
+- Tecnologías usadas: Python, Flask, SQLite.
+- Funcionalidades principales: API para manejo de datos, interfaz sencilla.
+
+### [Proyecto 3 - Nombre del Proyecto](https://github.com/tu-usuario/proyecto3)
+- Descripción breve del proyecto.
+- Tecnologías usadas: Docker, Kubernetes.
+- Funcionalidades principales: Despliegue automático y escalabilidad.
+
 -->
